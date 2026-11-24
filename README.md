@@ -6,7 +6,7 @@ Carousel présenté sur écran lors du salon DevLille pour mettre en avant les p
 
 ## Ajouter ton profil - guide pas à pas
 
-### Étape 1 — Récupère le projet => ⚠️ le fork est privilégié pour faire la PR ⚠️
+### Étape 1 - Récupère le projet => ⚠️ le fork est privilégié pour faire la PR ⚠️
 
 ```bash
 git clone <url-du-repo>
