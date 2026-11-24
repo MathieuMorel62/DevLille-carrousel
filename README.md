@@ -1,10 +1,10 @@
-# DEVLILLE · The Hot Seat — Carousel alternances
+# DEVLILLE · The Hot Seat - Carousel alternances
 
 Carousel présenté sur écran lors du salon DevLille pour mettre en avant les profils des étudiants Holberton en recherche d'alternance.
 
 ---
 
-## Ajouter ton profil — guide pas à pas
+## Ajouter ton profil - guide pas à pas
 
 ### Étape 1 — Récupère le projet => ⚠️ le fork est privilégié pour faire la PR ⚠️
 
@@ -15,7 +15,7 @@ cd dev_lille
 
 ---
 
-### Étape 2 — Ajoute ta photo
+### Étape 2 - Ajoute ta photo
 
 Place une photo de toi dans le dossier :
 
@@ -32,7 +32,7 @@ public/avatars/
 
 ---
 
-### Étape 3 — Ajoute ton profil dans le fichier de données
+### Étape 3 - Ajoute ton profil dans le fichier de données
 
 Ouvre le fichier :
 
@@ -69,7 +69,7 @@ Copie-colle ce bloc à la fin du tableau `PROFILES`, **avant le `]` final** :
 
 ---
 
-### Palette de couleurs — choisis la tienne
+### Palette de couleurs - choisis la tienne
 
 Chaque profil a sa propre teinte dans la famille rouge/orange/ambre. Choisis une couleur différente de tes camarades :
 
@@ -115,7 +115,7 @@ Pour un outil sans icône Devicon (Nmap, Wireshark…), laisse `icon: ""` et seu
 
 ---
 
-### Étape 4 — Vérifie que ça marche (optionnel mais recommandé)
+### Étape 4 - Vérifie que ça marche (optionnel mais recommandé)
 
 Si tu as Node.js installé :
 
@@ -128,7 +128,7 @@ Ouvre [http://localhost:5173](http://localhost:5173) dans ton navigateur et vér
 
 ---
 
-### Étape 5 — Envoie tes modifications
+### Étape 5 - Envoie tes modifications
 
 ```bash
 git add public/avatars/prenom_nom.jpg
